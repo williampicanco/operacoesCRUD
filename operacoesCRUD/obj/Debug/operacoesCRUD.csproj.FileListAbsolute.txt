@@ -1,0 +1,6 @@
+c:\users\londres\documents\visual studio 2015\Projects\operacoesCRUD\operacoesCRUD\bin\operacoesCRUD.dll.config
+c:\users\londres\documents\visual studio 2015\Projects\operacoesCRUD\operacoesCRUD\bin\operacoesCRUD.dll
+c:\users\londres\documents\visual studio 2015\Projects\operacoesCRUD\operacoesCRUD\bin\operacoesCRUD.pdb
+c:\users\londres\documents\visual studio 2015\Projects\operacoesCRUD\operacoesCRUD\obj\Debug\operacoesCRUD.csprojResolveAssemblyReference.cache
+c:\users\londres\documents\visual studio 2015\Projects\operacoesCRUD\operacoesCRUD\obj\Debug\operacoesCRUD.dll
+c:\users\londres\documents\visual studio 2015\Projects\operacoesCRUD\operacoesCRUD\obj\Debug\operacoesCRUD.pdb
